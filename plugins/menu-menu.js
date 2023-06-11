@@ -101,7 +101,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *GataCoins ➟* ${money} 🐈
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 〕⬣*
+*╭━〔 INFORMACIÓN DE 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasaleizn | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -117,7 +117,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃!!*
+┃ *Número en 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -134,7 +134,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 en Grupos!!*
+┃ *Une a 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -191,7 +191,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃!!*
+┃ *Conversar con 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
