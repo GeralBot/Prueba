@@ -11,14 +11,14 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['51914079837', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true], 
-['51914079837', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['51914079837', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['51914079837', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
-['51914079837'], 
-['51914079837'],
-['51914079837'],
-['51914079837']]
+['51935763050', '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭', true], 
+['51935763050', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['51935763050', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
+['51935763050', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+['51935763050'], 
+['51935763050'],
+['51935763050'],
+['51935763050']]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -27,7 +27,7 @@ global.prems = []
    
   
 /*⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-Agrega el Idioma que quieres que tenga 𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃
+Agrega el Idioma que quieres que tenga 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭
 Add the language you want GataBotLite-MD to have
   es = Español         id = Bahasa Indonesia
   en = English         pt = Português 
@@ -95,16 +95,16 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 🌻🐈'
-global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.packname = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 💻💙'
+global.author = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['51914079837', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃 💻', 1], 
-['51914079837', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['51914079837', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['51914079837', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['51935763050', '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭  💻', 1], 
+['51935763050', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['51935763050', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['51935763050', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -114,14 +114,15 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.2'
 global.vsJB = '3.0'
 
-global.gt = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
-global.yt = 'https://youtube.com/@aleiznn'
+global.gt = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
+global.yt = 'https://youtube.com/@geraldomoralesbernal2311
+'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/ale.izn_20'
+global.ig = 'https://www.instagram.com/geral-ventas18'
 global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //UPDATE Aleizn-MD
+global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //UPDATE -MD
 global.nna2 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Help
 global.nn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 2
@@ -132,15 +133,15 @@ global.nnnttt2 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 6 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 7 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 8 COL
 global.paypal = 'https://paypal.me/aleizn/'
-global.asistencia = 'Wa.me/51992621601' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/51935763050' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃𝘿 🌻🐈 : 𝐀𝐥𝐞𝐢𝐳𝐧'
-global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.wm = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭 💻💙 : 𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
+global.igfg = '𝐆𝐞𝐫𝐚𝐥-𝐁𝐨𝐭'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
