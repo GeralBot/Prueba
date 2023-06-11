@@ -1,6 +1,6 @@
 
-### `—◉ 👑 ¡Hola! Aleizn-MD?, CONTACTAME 👑`
-<a href="http://wa.me/+5493878224071" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+### `—◉ 👑 ¡Hola! Geral-Bot?, CONTACTAME 👑`
+<a href="http://wa.me/+51935763050" target="blank"><img src="https://img.shields.io/badge/Geral-Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
@@ -22,7 +22,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/aleizn/Propio
+git clone https://github.com/GeralBot/Propio
 ```
 
 ```bash
@@ -83,7 +83,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PROPIETARIO DEL BOT` 
-`Ale __________ Ale?`
+`Geral __________ Geral?`
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
